@@ -1,9 +1,7 @@
 def is_even(n):
-    """Return True if n is even, False otherwise."""
     return n % 2 == 0
 
 def is_odd(n):
-    """Return True if n is odd, False otherwise."""
     return n % 2 != 0
 
 if __name__ == "__main__":
